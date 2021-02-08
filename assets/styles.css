@@ -1,0 +1,48 @@
+
+img{
+     border :1px solid black;
+     
+    -moz-box-shadow :2px 2px 2px #888;
+    -webkit-box-shadow:2px 2px 2px #888;
+    box-shadow :2px 2px 2px #888;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    }
+.username{
+     text-align :center;
+     background :#eb8;
+     color :#40d;
+     font-family:helvetica;
+     font-size :20pt;
+     padding :4px;
+    }
+.info{
+     font-style :italic;
+     margin :40px 0px;
+     text-align :center;
+    }
+.center{
+     text-align:center;
+    }
+.subhead{
+        font-weight:bold;
+}
+.taken, .error{
+color:red;
+}
+.available{
+color:green;
+}
+.whisper{
+font-style:italic;
+color :#006600;
+}
+#used{
+margin-top:50px;
+}
+
+main{
+padding-right: 1rem!important;
+padding-left: 1rem!important;
+}
